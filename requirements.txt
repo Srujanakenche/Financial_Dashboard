@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+ta
+transformers
+torch
+xgboost
+scikit-learn
+plotly
+beautifulsoup4
+requests
